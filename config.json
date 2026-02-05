@@ -1,0 +1,1 @@
+{"bundle_id":"rnse_failure_surface_mse_v1","constraints":{"B_min":0.05,"C_max":1.5,"L_max":0.4,"load_max":1.2,"tau_div":0.5,"thr_max":2.0},"mse_version":"1.0","notes":{"engine_internals":"out_of_scope"},"run_spec":{"T":8000,"methods":["RNSE","RandomWalk","Uniform","NaiveMC"],"seed64":"0x5EEDBEEFCAFE1234","state_dims":["load","latency","throughput","buffer","coupling"]}}
