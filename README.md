@@ -1,4 +1,4 @@
-# RNSE Failure Surface — MSE Replay Bundle (v1.0)
+ RNSE Failure Surface — MSE Replay Bundle (v1.0)
 
 Surface-only verification bundle for the RNSE failure-surface / regime-summary outputs.
 RNSE internals are out of scope. This bundle locks evidence, not implementation.
